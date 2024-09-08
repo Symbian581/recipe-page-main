@@ -5,6 +5,12 @@ body {
   box-sizing: border-box;
 }
 
+.header-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .container {
   background-color: hsl(0, 0%, 100%);
   margin: 80px 200px 80px 200px;
